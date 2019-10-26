@@ -17,7 +17,7 @@ def main_menu():
     ]
     return items
 
-@plugin.route('/episodes1/'
+@plugin.route('/episodes1/')
 def episodes1():
     soup1 = mainaddon.get_soup1(url1)
     playable_podcast1 = mainaddon.get_playable_podcast1(soup1)
