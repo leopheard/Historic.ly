@@ -10,7 +10,7 @@ def get_soup1(url1):
 
 def get_playable_podcast1(soup1):
     subjects = []
-    for content in soup1.find_all('item', limit=9):
+    for content in soup1.find_all('item', limit=14):
         try:
             link = content.find('enclosure')
             link = link.get('url')

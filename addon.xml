@@ -14,7 +14,7 @@
     <platform>all</platform>
     <language>en_us</language>
     <summary lang="en">Historic.ly</summary>
-    <description lang="en">You are listening to Historic.ly: a show where we decolonize history and debunk myths taught in school</description>
+    <description lang="en">Historic.ly: a show where we decolonize history and debunk myths taught in school</description>
     <license>The MIT License (MIT)</license>
     <forum></forum>
     <email>leopheard@gmail.com</email>
@@ -23,9 +23,9 @@
         	<assets>
 			<icon>resources/media/icon.jpg</icon>
 			<fanart>resources/media/fanart.jpg</fanart>
+			<screenshot>resources/media/1.jpg</screenshot>
 			<screenshot>resources/media/icon.jpg</screenshot>
-			<screenshot>resources/media/icon.jpg</screenshot>
-			<screenshot>resources/media/icon.jpg</screenshot>
+			<screenshot>resources/media/1.jpg</screenshot>
 		</assets>
   </extension>
 </addon>
